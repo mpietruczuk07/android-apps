@@ -1,0 +1,27 @@
+
+^
+java:S2259f"BA "NullPointerException" could be thrown; "data" is nullable here.(ø¥÷U8Ä­É0
+_
+java:S2259a"BA "NullPointerException" could be thrown; "data" is nullable here.(ç±ûˆ8Ä­É0
+`
+java:S1874;">Remove this use of "startActivityForResult"; it is deprecated.(ëÖƒ øÿÿÿÿ8üşÆ¨É0
+f
+java:S1874]"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾8ß­É0
+U
+java:S1117a"8Rename "book" which hides the field declared at line 37.(ç±ûˆ8¥”­É0
+„
+java:S3252c"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(“ì”œ8¡”­É0
+„
+java:S3252j"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Û¬š8á­É0
+‰
+java:S3252m"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(§›âŞşÿÿÿÿ8á­É0
+„
+java:S3252"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Ó¿èÌ8ä­É0
+\
+java:S1874ˆ">Remove this use of "startActivityForResult"; it is deprecated.(Ìêò‹8©Ø…­É0
+[
+java:S1117Ÿ"8Rename "book" which hides the field declared at line 37.(ŠœÁúÿÿÿÿ8ç­É0
+A
+java:S1068$"+Remove this unused "binding" private field.(¶ÃÊ
+E
+java:S1068%"(Remove this unused "book" private field.(°¢éÅ8­®È¨É0

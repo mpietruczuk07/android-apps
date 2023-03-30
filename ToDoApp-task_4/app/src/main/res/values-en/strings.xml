@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDo App</string>
+    <string name="name_hint">Enter the name of the task</string>
+    <string name="name_label">Name</string>
+    <string name="details_label">Category</string>
+    <string name="done_label">Done</string>
+
+    <string name="task_add_new">New task</string>
+    <string name="show_subtitle">Show subtitle</string>
+    <string name="hide_subtitle">Hide subtitle</string>
+    <string name="subtitle_format">%1$d tasks</string>
+</resources>

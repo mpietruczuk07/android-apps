@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "324144910302",
+    "firebase_url": "https://shopping-app-d73bc-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "shopping-app-d73bc",
+    "storage_bucket": "shopping-app-d73bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324144910302:android:ddf1ca973ab269ba29174f",
+        "android_client_info": {
+          "package_name": "pl.edu.pb.shoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324144910302-bfdm9hh2hdi6l6q472lhpr97gjl1sn2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMbR9-n8BmkxOpPAj96eg0EYFFixTNl6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324144910302-bfdm9hh2hdi6l6q472lhpr97gjl1sn2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

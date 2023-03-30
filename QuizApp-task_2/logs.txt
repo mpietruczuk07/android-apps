@@ -1,0 +1,77 @@
+---------------------------- PROCESS STARTED (12595) for package pl.edu.pb.wi ----------------------------
+2022-10-09 13:47:18.276 12595-12595 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onCreate
+2022-10-09 13:47:18.384 12595-12595 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onStart
+2022-10-09 13:47:18.385 12595-12595 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onResume
+2022-10-09 13:47:27.631 12595-12595 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onPause
+2022-10-09 13:47:28.067 12595-12595 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onStop
+2022-10-09 13:47:30.314 12595-12595 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onStart
+2022-10-09 13:47:30.315 12595-12595 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onResume
+2022-10-09 13:47:38.395 12595-12595 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onPause
+2022-10-09 13:47:38.397 12595-12595 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onStop
+2022-10-09 13:47:38.497 12595-12595 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onDestroy
+
+Podczas uruchamiania aplikacji wywoływane są metody: onCreate, onStart oraz onResume.
+W momencie naciśnięcia przycisku Home wywołwane są metody: onPause oraz onStop.
+W momencie wybrania aplikacji z menu ostatnio używanych aplikacji wywoływane są metody onStart oraz onResume.
+Metoda onDestroy jest wywoływana w momencie usunięcia aplikacji z menu ostatnio używanych aplikacji.
+
+OBRACANIE EKRANU:
+---------------------------- PROCESS STARTED (12765) for package pl.edu.pb.wi ----------------------------
+2022-10-09 14:04:23.861 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onCreate
+2022-10-09 14:04:23.961 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onStart
+2022-10-09 14:04:23.962 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onResume
+2022-10-09 14:04:47.753 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onPause
+2022-10-09 14:04:47.763 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onStop
+2022-10-09 14:04:47.767 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onDestroy
+2022-10-09 14:04:47.782 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onCreate
+2022-10-09 14:04:47.801 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onStart
+2022-10-09 14:04:47.802 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onResume
+2022-10-09 14:05:00.187 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onPause
+2022-10-09 14:05:00.189 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onStop
+2022-10-09 14:05:00.190 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onDestroy
+2022-10-09 14:05:00.201 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onCreate
+2022-10-09 14:05:00.217 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onStart
+2022-10-09 14:05:00.218 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onResume
+2022-10-09 14:05:12.724 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onPause
+2022-10-09 14:05:12.728 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onStop
+2022-10-09 14:05:12.729 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onDestroy
+2022-10-09 14:05:12.738 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onCreate
+2022-10-09 14:05:12.755 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onStart
+2022-10-09 14:05:12.755 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onResume
+2022-10-09 14:05:47.656 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onPause
+2022-10-09 14:05:47.663 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onStop
+2022-10-09 14:05:47.663 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onDestroy
+2022-10-09 14:05:47.673 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onCreate
+2022-10-09 14:05:47.692 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onStart
+2022-10-09 14:05:47.693 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onResume
+2022-10-09 14:05:51.387 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onPause
+2022-10-09 14:05:51.391 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onStop
+2022-10-09 14:05:51.391 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onDestroy
+2022-10-09 14:05:51.402 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onCreate
+2022-10-09 14:05:51.415 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onStart
+2022-10-09 14:05:51.416 12765-12765 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onResume
+
+Obrócenie ekranu spowodowało załadowanie aplikacji od nowa, w trybie dostosowanym do obróconego ekranu.  
+Po obróceniu ekranu zawsze wyświetla się pytanie pierwsze. 
+
+PO DODANIU METODY:
+---------------------------- PROCESS STARTED (13031) for package pl.edu.pb.wi ----------------------------
+2022-10-09 14:18:58.394 13031-13031 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onCreate
+2022-10-09 14:18:58.501 13031-13031 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onStart
+2022-10-09 14:18:58.502 13031-13031 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onResume
+2022-10-09 14:19:12.673 13031-13031 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onPause
+2022-10-09 14:19:12.676 13031-13031 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onStop
+2022-10-09 14:19:12.679 13031-13031 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onSaveInstanceState
+2022-10-09 14:19:12.680 13031-13031 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onDestroy
+2022-10-09 14:19:12.692 13031-13031 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onCreate
+2022-10-09 14:19:12.712 13031-13031 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onStart
+2022-10-09 14:19:12.712 13031-13031 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onResume
+2022-10-09 14:19:17.865 13031-13031 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onPause
+2022-10-09 14:19:17.867 13031-13031 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onStop
+2022-10-09 14:19:17.867 13031-13031 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onSaveInstanceState
+2022-10-09 14:19:17.867 13031-13031 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onDestroy
+2022-10-09 14:19:17.882 13031-13031 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onCreate
+2022-10-09 14:19:17.897 13031-13031 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onStart
+2022-10-09 14:19:17.897 13031-13031 activity                pl.edu.pb.wi                         D  Wywołana została metoda: onResume
+
+Po dodaniu metody onSaveInstanceState, po obróceniu ekranu wyświetla się pytanie, na którym ekran został obrócony.

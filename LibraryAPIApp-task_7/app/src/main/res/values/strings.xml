@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Library App</string>
+    <string name="img_alt">Book Cover</string>
+    <string name="search">Search</string>
+    <string name="clear_search">Clear Search</string>
+    <string name="fail_message">Something went wrong</string>
+    <string name="title">Title: \n</string>
+    <string name="author">\nAuthor: \n</string>
+    <string name="no_pages">\nNumber of pages: \n</string>
+    <string name="year_published">\nYear published: \n</string>
+    <string name="languages">\nAvailable languages: \n</string>
+    <string name="publishers">\nBook publishers: \n</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/homeFragment">
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="pl.edu.pb.shoppingapp.fragment.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/mapsFragment"
+        android:name="pl.edu.pb.shoppingapp.fragment.MapsFragment"
+        android:label="fragment_maps"
+        tools:layout="@layout/fragment_maps" />
+    <fragment
+        android:id="@+id/favouriteShopsFragment"
+        android:name="pl.edu.pb.shoppingapp.fragment.FavouriteShopsFragment"
+        android:label="fragment_favourite_shops"
+        tools:layout="@layout/fragment_favourite_shops" />
+    <fragment
+        android:id="@+id/moreFragment"
+        android:name="pl.edu.pb.shoppingapp.fragment.MoreFragment"
+        android:label="fragment_more"
+        tools:layout="@layout/fragment_more" />
+</navigation>

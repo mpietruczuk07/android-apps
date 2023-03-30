@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8212bf01-8025-4516-b51c-26593eb4b28f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/androidTest/java/pl/edu/pb/todoapp/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/java/pl/edu/pb/todoapp/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/java/pl/edu/pb/todoapp/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/java/pl/edu/pb/todoapp/SingleFragmentActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/java/pl/edu/pb/todoapp/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/java/pl/edu/pb/todoapp/TaskFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/java/pl/edu/pb/todoapp/TaskListActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/java/pl/edu/pb/todoapp/TaskListFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/java/pl/edu/pb/todoapp/TaskStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/drawable-anydpi/ic_house.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/drawable-anydpi/ic_menu_add.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/drawable-anydpi/ic_studies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/drawable-hdpi/ic_house.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/drawable-hdpi/ic_menu_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/drawable-hdpi/ic_studies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/drawable-mdpi/ic_house.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/drawable-mdpi/ic_menu_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/drawable-mdpi/ic_studies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/drawable-xhdpi/ic_house.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/drawable-xhdpi/ic_menu_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/drawable-xhdpi/ic_studies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/drawable-xxhdpi/ic_house.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/drawable-xxhdpi/ic_menu_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/drawable-xxhdpi/ic_studies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/layout/fragment_task.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/layout/fragment_task_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/layout/list_item_task.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/menu/fragment_task_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/values-en/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zad#4/AndroidToDoApp_(extended)/app/src/test/java/pl/edu/pb/todoapp/ExampleUnitTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2HMTnirIz68Lg6JTv3icxhNQ8Ki" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8212bf01-8025-4516-b51c-26593eb4b28f" name="Changes" comment="" />
+      <created>1668094124010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668094124010</updated>
+    </task>
+    <servers />
+  </component>
+</project>

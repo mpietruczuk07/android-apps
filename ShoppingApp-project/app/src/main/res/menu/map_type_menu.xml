@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/default_map_btn"
+        android:title="Default" />
+
+    <item
+        android:id="@+id/satellite_map_btn"
+        android:title="Satellite" />
+
+    <item
+        android:id="@+id/terrain_map_btn"
+        android:title="Terrain" />
+</menu>

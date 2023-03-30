@@ -1,0 +1,11 @@
+
+e
+java:S1192"ODefine a constant instead of duplicating this literal "SENSOR_APP_TAG" 5 times.(€¢Üœ
+w
+java:S1450"aRemove the "sensorNameTextView" field and declare it as a local variable in the relevant methods.(„”÷ë
+7	java:S131I""Add a default case to this switch.(÷ÊÍ“
+]	java:S125F"<This block of commented-out lines of code should be removed.(¢Ê¹‚ûÿÿÿÿ8öéÙ“È0
+H
+java:S1068"2Remove this unused "sensorPressure" private field.(õü¤è
+M
+java:S1068"7Remove this unused "sensorAccelerometer" private field.(ëóÜÏ

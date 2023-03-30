@@ -1,0 +1,26 @@
+
+e
+java:S11920"ODefine a constant instead of duplicating this literal "SENSOR_APP_TAG" 4 times.(•Í¿Ì
+f
+java:S1301I"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+v
+java:S1450"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ýÿÿÿÿ
+r
+java:S1450"\Remove the "sensorManager" field and declare it as a local variable in the relevant methods.(Þ¬–„
+k
+java:S1450X"URemove the "sensor" field and declare it as a local variable in the relevant methods.(ðËÈÇ
+K
+java:S1874h"0Remove this use of "getColor"; it is deprecated.(Ü»ÞÎÿÿÿÿÿ
+Y
+java:S1874l">Remove this use of "startActivityForResult"; it is deprecated.(ÓŽ³²úÿÿÿÿ
+F
+java:S1874q"0Remove this use of "getColor"; it is deprecated.(Ã´Þ¾
+Y
+java:S1874u">Remove this use of "startActivityForResult"; it is deprecated.(ÓŽ³²úÿÿÿÿ
+V	java:S125t"<This block of commented-out lines of code should be removed.(êžˆ²øÿÿÿÿ
+R
+java:S1068U"7Remove this unused "sensorIconImageView" private field.(ÑôÌ¦øÿÿÿÿ
+L
+java:S1068W"6Remove this unused "sensorTypeTextView" private field.(§óíÎ
+@
+java:S1068X"*Remove this unused "sensor" private field.(ðËÈÇ

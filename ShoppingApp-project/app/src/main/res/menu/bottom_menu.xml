@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home_btn"
+            android:icon="@drawable/ic_outline_home_24"
+            android:title="@string/menu_home"/>
+
+        <item
+            android:id="@+id/maps_btn"
+            android:icon="@drawable/ic_outline_map_24"
+            android:title="@string/menu_maps"/>
+        <item
+            android:id="@+id/favourite_shops_btn"
+            android:icon="@drawable/ic_outline_favorite_border_24"
+            android:title="@string/menu_saved_shops"/>
+
+        <item
+            android:id="@+id/more_btn"
+            android:icon="@drawable/ic_outline_more_horiz_24"
+            android:title="@string/menu_more"/>
+    </group>
+
+</menu>

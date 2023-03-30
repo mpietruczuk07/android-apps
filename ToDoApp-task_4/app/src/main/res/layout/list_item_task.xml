@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/appBackgroundColor"
+    android:orientation="vertical"
+    android:paddingLeft="20sp"
+    android:paddingTop="5sp"
+    android:paddingBottom="20sp">
+
+    <ImageView
+        android:id="@+id/task_item_icon"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:padding="@dimen/task_item_padding"
+        android:scaleType="center"
+        android:translationX="@dimen/item_translation_left"
+        tools:srcCompat="@drawable/ic_house" />
+
+    <TextView
+        style="@style/TextFieldsStyle"
+        android:id="@+id/task_item_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:textColor="@color/colorLightGreen" />
+
+    <TextView
+        style="@style/TextFieldsStyle"
+        android:id="@+id/task_item_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorDarkBlack" />
+
+    <CheckBox
+        android:id="@+id/task_item_checkbox"
+        android:layout_width="@dimen/checkbox_width"
+        android:layout_height="@dimen/checkbox_height"
+        android:buttonTint="@color/statusBarColor"
+        android:text="@string/done_label"
+        android:translationX="@dimen/item_translation_left" />
+
+</LinearLayout>
